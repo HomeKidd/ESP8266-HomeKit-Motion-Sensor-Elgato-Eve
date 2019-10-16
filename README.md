@@ -1,8 +1,5 @@
-# ESP8266-HomeKit-Motion-Sensor-Elgato-Eve
+# ESP8266 Apple HomeKit Elgato Eve Motion Sensor
 ESP8266 based  HomeKit Motion Sensor that works the same as Elgato Eve Motion
-
-# ESP8266 based  HomeKit Weather Station BME280
-ESP8266 based  HomeKit Weather Station using Bosch BME280 temperature, humidity, barometric pressure sensor.
 
 ------
 [![Instagram URL](https://img.shields.io/twitter/url/https/www.instagram.com/homekidd?label=Follow&logo=instagram&style=social)](https://www.instagram.com/homekidd) [![FaceBook URL](https://img.shields.io/twitter/url/https/www.facebook.com/HomeKiid?label=Like&logo=facebook&style=social)](https://www.facebook.com/HomeKiid) [![YouTube URL](https://img.shields.io/twitter/url/https/www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA?label=Follow&logo=youtube&style=social)](https://www.youtube.com/channel/UCkqC_6j1uyYVv7SO3jPe7KA)
