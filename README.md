@@ -25,7 +25,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Set Duration for Motion _(only in Elgato Eve app)_
 * Set Sensitivity  _(only in Elgato Eve app, not working yet)_
 * Last motion displaying _(only in Elgato Eve app, not working yet)_
-* Over-the-Air firmware update _(beta)_
+* ~~Over-the-Air firmware update _(beta)_~~
 * Reset button 
 * ~~Data history~~ (not working, not reliable enough)
 
