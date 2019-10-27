@@ -1,5 +1,3 @@
-# NOT WORKING YET!!!!!! PLEASE DO NOT DOWNLOAD IT!!!!!!!!!!
-
 # ESP8266 Apple HomeKit Elgato Eve Motion Sensor
 ESP8266 based  HomeKit Motion Sensor that works the same as Elgato Eve Motion
 
