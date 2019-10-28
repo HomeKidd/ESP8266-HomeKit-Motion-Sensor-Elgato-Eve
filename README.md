@@ -20,8 +20,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 
 
 **Features:**
-
-* Motion Sensing
+* Motion Sensing _(via [HC-SR501](https://lastminuteengineers.com/pir-sensor-arduino-tutorial/))_
 * Set Duration for Motion _(only in Elgato Eve app)_
 * Set Sensitivity  _(only in Elgato Eve app, not working yet, hardware issue)_
 * Last motion displaying _(only in Elgato Eve app, not working yet)_
