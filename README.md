@@ -30,7 +30,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
  
 <br/>
 <br/>
-<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/raw/master/images/homekid_mockup_2g.jpg" class="center" width="650"/>
+<img src="https://github.com/HomeKidd/ESP8266-HomeKit-Motion-Sensor-Elgato-Eve/raw/master/images/homekid_motion.jpg" class="center" width="450"/>
 
 <br/>
 
