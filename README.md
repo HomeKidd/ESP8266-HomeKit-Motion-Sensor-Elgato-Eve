@@ -6,7 +6,7 @@ ESP8266 based  HomeKit Motion Sensor that works the same as Elgato Eve Motion
 ------
 
 [![GitHub All Releases](https://img.shields.io/github/downloads/HomeKidd/ESP8266-HomeKit-Motion-Sensor-Elgato-Eve/total?color=green)](https://github.com/HomeKidd/ESP8266-HomeKit-Motion-Sensor-Elgato-Eve/releases) 
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280?color=yellow&label=Latest%20Release)](https://github.com/HomeKidd/ESP8266-HomeKit-Motion-Sensor-Elgato-Eve/releases) 
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/HomeKidd/ESP8266-HomeKit-Motion-Sensor-Elgato-Eve?color=yellow&label=Latest%20Release)](https://github.com/HomeKidd/ESP8266-HomeKit-Motion-Sensor-Elgato-Eve/releases) 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CEYEK69ZYG69S&source=url)
 <br/>
 <br/>
