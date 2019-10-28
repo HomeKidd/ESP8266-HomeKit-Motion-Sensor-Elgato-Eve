@@ -23,14 +23,12 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 
 * Motion Sensing
 * Set Duration for Motion _(only in Elgato Eve app)_
-* Set Sensitivity  _(only in Elgato Eve app, not working yet)_
+* Set Sensitivity  _(only in Elgato Eve app, not working yet, hardware issue)_
 * Last motion displaying _(only in Elgato Eve app, not working yet)_
-* ~~Over-the-Air firmware update _(beta)_~~
 * Reset button 
 * ~~Data history~~ (not working, not reliable enough)
-
-**Please install the [latest 1.x.x release](https://github.com/HomeKidd/ESP8266-HomeKit-Motion-Sensor-Elgato-Eve/releases)!** 
-
+* ~~Over-the-Air firmware update~~
+ 
 <br/>
 <br/>
 <img src="https://github.com/HomeKidd/ESP8266-HomeKit-Weather-Station-BME280/raw/master/images/homekid_mockup_2g.jpg" class="center" width="650"/>
