@@ -23,6 +23,9 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Motion Sensing _(via [SR602](https://s.click.aliexpress.com/e/_dZKlqJo) or [HC-SR501](https://lastminuteengineers.com/pir-sensor-arduino-tutorial/))_
 * Set Duration for Motion _(only in Elgato Eve app)_
 * Set Sensitivity  _(only in Elgato Eve app, not working yet, hardware issue)_
+* LED on Motion Characteristic _(currently not fully working)_
+* Only in Dark Characteristic _(not working yet, I need to reverse engineer the Eve protocol...😄 )_
+* Downloadable User Manual _(via Eve app)_
 * Last motion displaying _(only in Elgato Eve app, not working yet)_
 * Reset button
 * Over-the-Air firmware update
